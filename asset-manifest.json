@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/shopping/static/css/main.f3c0a79f.css",
+    "main.js": "/shopping/static/js/main.36381afd.js",
+    "static/media/group-image-1.jpg": "/shopping/static/media/group-image-1.7de24b6a675d01872328.jpg",
+    "static/media/corporate-image.jpg": "/shopping/static/media/corporate-image.d9c47e5777d64c910380.jpg",
+    "static/media/mission-image.jpg": "/shopping/static/media/mission-image.68f7ab772fa288c37d32.jpg",
+    "static/media/group-image-2.jpg": "/shopping/static/media/group-image-2.5fa8ad38f28fde54a6f2.jpg",
+    "static/media/founder-image.jpg": "/shopping/static/media/founder-image.193345d35a6cf751249c.jpg",
+    "static/media/group-image-3.jpg": "/shopping/static/media/group-image-3.816b360ceedaf01fead6.jpg",
+    "static/media/logo.png": "/shopping/static/media/logo.e03b3a24ad9a521e6d83.png",
+    "static/media/about-us.jpg": "/shopping/static/media/about-us.f51793200f4a600c598f.jpg",
+    "index.html": "/shopping/index.html",
+    "main.f3c0a79f.css.map": "/shopping/static/css/main.f3c0a79f.css.map",
+    "main.36381afd.js.map": "/shopping/static/js/main.36381afd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f3c0a79f.css",
+    "static/js/main.36381afd.js"
+  ]
+}
